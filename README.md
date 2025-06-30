@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @iulia-lazuc and I'm a Product Manager.
+- 👋 Hi, I’m @iulia-lazuc and I'm an AI Strategist & Automation Builder.
