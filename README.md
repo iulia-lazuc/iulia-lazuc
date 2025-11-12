@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Iulia
 
-**Building fast, feedback-driven MVPs that turn community insight into trusted products.**
-I test, break, and rebuild here — before real development begins.
+**I focus on what’s worth building. I translate market signals into AI products before a line of code is written.**
+This is where I test, break and rebuild, before real development begins.
 
 ---
 
@@ -17,10 +17,11 @@ I care most about:
 ---
 
 ### ⚙️ Tech Stack & Tools
-- **AI:** GPT-4o / Claude / OpenAI function calling  
-- **Automation:** n8n, Make, LangChain  
-- **Backend:** Supabase, Postgres, 
-- **Frontend:** Vercel, Lovable, Notion API  
+- **AI:** GPT / Claude / Perplexity / OpenAI function calling  
+- **Automation:** n8n, Make  
+- **Backend:** Supabase, Postgres, Hostinger
+- **Frontend:** Vercel, Lovable
+- **Integrations:** Meta API, Slack API, Notion API
 - **Prototyping:** Cursor, Excalidraw, Gamma, Canva, Poppy
 
 ---
@@ -28,10 +29,9 @@ I care most about:
 ### 🧩 Projects (selected)
 | Project | Description | Stack |
 |----------|--------------|--------|
-| **Exy 2.0** | Community-driven real-estate evaluator built on WhatsApp | GPT, n8n, Supabase |
-| **Exy 1.0** | AI lead-scoring system for real-estate agents | n8n, GPT, Meta API |
-| **Strategy Drift Engine** | Automation that detects misalignment between OKRs & execution | Notion, Make, GPT |
-| **MediCheck MVP** | AI-powered health document interpreter with CTA guidance | Lovable, Make, Airtable |
+| **Exy 2.0** | Community-driven real-estate evaluator built on WhatsApp |  n8n, GPT, Perplexity, Claude, Meta API, Supabase, Cursor, Vercel, Lovable |
+| **Exy 1.0** | AI lead management solution for real-estate agents | n8n, GPT, Meta API, Supabase, Cursor, Vercel, Lovable, Hostinger |
+| **North Anchor Detector** | Automation that detects misalignment between strategy & development, OKRs & execution | Slack, Notion, Make, GPT |
 
 ---
 
