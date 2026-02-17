@@ -41,13 +41,8 @@ I care most about:
 - Applying *community-led validation* to early-stage AI product design  
 
 ---
-
 ### 🤝 Let’s connect
-- [LinkedIn](https://linkedin.com/in/iulia-lazuc)  
-- [Website](https://realestatelabs.ro)  
-- [Instagram](https://instagram.com/realestatelabs.ro)
-
+- [LinkedIn]([www.linkedin.com/in/iulia-hamos]
 ---
 
 > _Build with people_  
-> — guiding principle for every prototype here.
